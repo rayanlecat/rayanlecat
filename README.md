@@ -1,12 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo7843
+Fork on GitHub1614
 <h1 align="center">Hi 👋, I'm Rayan</h1>
 <h3 align="center">A young IT student passionate about cybersecurity</h3>
 
 - 🌱 I’m currently learning **C and binary exploitation**
 
-- 📝 I regularly write articles on [realrayan.me](https://realrayan.me)
+- 📝 I regularly write articles on [realrayan.me](realrayan.me)
+
+- 📫 How to reach me **rayanbouyaiche@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/realrayxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realrayxn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/realrayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realrayan" height="30" width="40" /></a>
 </p>
 
