@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C and binary exploitation**
 
-- 📝 I regularly write articles on [realrayan.me](realrayan.me)
+- 📝 I regularly write articles on [realrayan.me](https://realrayan.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
