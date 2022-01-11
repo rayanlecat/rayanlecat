@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rayan</h1>
-<h3 align="center">Infosec & Cats</h3>
 
 - 🌱 I’m currently learning **C and binary exploitation**
 
