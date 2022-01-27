@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **C and binary exploitation**
 
-- 📝 I regularly write articles and writeups on [realrayan.me](realrayan.me)
+- 📝 I regularly write articles and writeups on [realrayan.me](https://realrayan.me)
 
 - 📫 How to reach me **rayanbouyaiche@protonmail.com**
 
