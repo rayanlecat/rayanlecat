@@ -2,13 +2,11 @@
 
 - 🌱 I’m currently learning **C and binary exploitation**
 
-- 📝 I regularly write articles and writeups on [realrayan.me](https://realrayan.me)
-
 - 📫 How to reach me **rayanbouyaiche@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/realrayxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realrayxn" height="30" width="40" /></a>
+<a href="https://twitter.com/rayanlecat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayanlecat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/realrayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realrayan" height="30" width="40" /></a>
 </p>
 
